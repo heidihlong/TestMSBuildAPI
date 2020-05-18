@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27326.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMSBAPI", "TestMSBuildAPI\TestMSBAPI.csproj", "{BB782765-EB88-479F-A474-DE4EAFF2BB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed = Debug|Mixed
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed = Release|Mixed
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Debug|Mixed.ActiveCfg = Debug|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Debug|Mixed.Build.0 = Debug|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Release|Mixed.ActiveCfg = Release|Any CPU
+		{BB782765-EB88-479F-A474-DE4EAFF2BB58}.Release|Mixed.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2B554CC-4642-4C95-9F58-1170291B9099}
+	EndGlobalSection
+EndGlobal
